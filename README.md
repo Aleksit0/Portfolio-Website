@@ -3,5 +3,3 @@
 Site hosted on Netlify.
 
 # Link: https://alexacodes.netlify.app
-
-# TODO: Better file management!
