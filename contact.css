@@ -157,4 +157,10 @@ body {
   color: #222222;
   font-size: 1em;
 }
+
+@media screen and (max-width: 485px) {
+  .container p .gmail {
+    word-break: break-all;
+  }
+}
 /*# sourceMappingURL=contact.css.map */

@@ -38,13 +38,13 @@ body {
   text-align: center;
 }
 
-.naslov h1 {
+.naslov header h1 {
   font-family: 'Permanent Marker', cursive;
   color: #ffffff;
   font-size: 1em;
 }
 
-.naslov h1 mark {
+.naslov header h1 mark {
   background-color: #f93800;
   color: #ffffff;
 }

@@ -133,3 +133,13 @@ body {
     font-size: 1em;
   }
 }
+
+@media screen and (max-width: 485px) {
+  .container {
+    p {
+      .gmail {
+        word-break: break-all;
+      }
+    }
+  }
+}
